@@ -1,0 +1,9 @@
+{
+  "name": "@fraction/base16-css",
+  "version": "1.0.0",
+  "description": "CSS variables for base16 themes",
+  "repository": "https://github.com/fraction/base16-css.git",
+  "author": "Christian Bundy <christianbundy@fraction.io>",
+  "license": "AGPL-3.0",
+  "private": false
+}
